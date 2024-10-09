@@ -17,6 +17,3 @@
 |----|----------|
 |[VueMastery](https://www.youtube.com/@VueMastery)|Vidéos sur les conférences|
 |[Vuejs Amsterdam](https://www.youtube.com/@VuejsAmsterdam)|Compte officiel sur les conférences d'Amsterdam|
-## Podcasts
-|Lien|Pourquoi ?|
-|----|----------|
