@@ -5,8 +5,8 @@
 ## Twitter
 |Lien|Pourquoi ?|
 |----|----------|
-|[Vue](https://x.com/vuejs)|Compte officiel de Vue|
-|[Evan You](https://x.com/youyuxi)|Créateur de Vue|
+|[Vue](https://x.com/vuejs)|Compte officiel|
+|[Evan You](https://x.com/youyuxi)|Créateur|
 |[Eduardor.vue](https://x.com/posva)|Membre de l'équipe de dev|
 |[Guillaume Chau](https://x.com/Akryum)|Membre de l'équipe de dev|
 |[Linus Borg](https://x.com/Linus_Borg)|Membre de l'équipe de dev|
@@ -15,6 +15,8 @@
 ## Youtube
 |Lien|Pourquoi ?|
 |----|----------|
+|[VueMastery](https://www.youtube.com/@VueMastery)|Vidéos sur les conférences|
+|[Vuejs Amsterdam](https://www.youtube.com/@VuejsAmsterdam)|Compte officiel sur les conférences d'Amsterdam|
 ## Podcasts
 |Lien|Pourquoi ?|
 |----|----------|
