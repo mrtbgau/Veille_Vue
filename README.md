@@ -7,6 +7,7 @@
 |[Vue School](https://vueschool.io/)|Plateforme d'apprentissage|
 |[Vue Mastery](https://www.vuemastery.com/)|Plateforme d'apprentissage|
 |[Made with vue js](https://madewithvuejs.com/)|Vitrine de projets créés avec Vue.js. Idéal pour trouver de l'inspiration ou pour voir tout ce qui est possible de faire avec vue|
+|[Daily Dev](https://app.daily.dev/)|Extension google proposant un flux d'article sur le développement informatique. Possibilité de filtrer sur différentes technos|
 ## Twitter
 |Lien|Pourquoi ?|
 |----|----------|
@@ -24,5 +25,4 @@
 ## Podcasts
 |Lien|Pourquoi ?|
 |----|----------|
-|[DejaVue](https://www.youtube.com/@DejaVueFm)|Un podcast hebdomadaire couvrant les actualités et les meilleures pratiques sur vue et nuxt|
-|[Vuejs Amsterdam](https://www.youtube.com/@VuejsAmsterdam)|Compte officiel sur les conférences d'Amsterdam|
+|[DejaVue](https://www.youtube.com/@DejaVueFm)|Un podcast hebdomadaire couvrant les actualités et les meilleures pratiques sur vue et nuxt. Disponible sur Youtube, Spotify et Apple Podcasts|
